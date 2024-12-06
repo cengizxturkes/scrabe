@@ -1,0 +1,638 @@
+[
+    {
+        "sıralama": 1,
+        "lig": "ABD 2. Lig A 07.11.2024 12"
+    },
+    {
+        "sıralama": 2,
+        "lig": "ABD 2. Lig B 07.11.2024 12"
+    },
+    {
+        "sıralama": 3,
+        "lig": "Afrika 2024 15.12.2023 24"
+    },
+    {
+        "sıralama": 4,
+        "lig": "Afrika Şampiyonası 10.11.2023 16"
+    },
+    {
+        "sıralama": 5,
+        "lig": "Almanya 07.11.2024 18"
+    },
+    {
+        "sıralama": 6,
+        "lig": "Almanya 2. Ligi 07.11.2024 18"
+    },
+    {
+        "sıralama": 7,
+        "lig": "Almanya 3. Ligi 07.11.2024 20"
+    },
+    {
+        "sıralama": 8,
+        "lig": "Altın Top 21.10.2024 14"
+    },
+    {
+        "sıralama": 9,
+        "lig": "Amerika Birleşik Devletleri A 07.11.2024 15"
+    },
+    {
+        "sıralama": 10,
+        "lig": "Amerika Birleşik Devletleri B 07.11.2024 14"
+    },
+    {
+        "sıralama": 11,
+        "lig": "Amerika Kupası 2024 17.06.2024 16"
+    },
+    {
+        "sıralama": 12,
+        "lig": "Andorra 07.11.2024 10"
+    },
+    {
+        "sıralama": 13,
+        "lig": "Arjantin 07.11.2024 28"
+    },
+    {
+        "sıralama": 14,
+        "lig": "Arjantin 2. Lig A 07.11.2024 19"
+    },
+    {
+        "sıralama": 15,
+        "lig": "Arjantin 2. Lig B 07.11.2024 19"
+    },
+    {
+        "sıralama": 16,
+        "lig": "Arnavutluk 07.11.2024 10"
+    },
+    {
+        "sıralama": 17,
+        "lig": "Asya 2024 11.12.2023 24"
+    },
+    {
+        "sıralama": 18,
+        "lig": "Asya Şampiyonası 25.09.2023 40"
+    },
+    {
+        "sıralama": 19,
+        "lig": "Avrupa 2024 10.06.2024 24"
+    },
+    {
+        "sıralama": 20,
+        "lig": "Avrupa Kupası 24/25 02.09.2024 36"
+    },
+    {
+        "sıralama": 21,
+        "lig": "Avusturalya 07.11.2024 13"
+    },
+    {
+        "sıralama": 22,
+        "lig": "Avusturya 07.11.2024 12"
+    },
+    {
+        "sıralama": 23,
+        "lig": "Avusturya 2. Ligi 07.11.2024 16"
+    },
+    {
+        "sıralama": 24,
+        "lig": "Azerbaycan 07.11.2024 10"
+    },
+    {
+        "sıralama": 25,
+        "lig": "Belarus 07.11.2024 16"
+    },
+    {
+        "sıralama": 26,
+        "lig": "Belçika 07.11.2024 16"
+    },
+    {
+        "sıralama": 27,
+        "lig": "Belçika 2. Ligi 07.11.2024 16"
+    },
+    {
+        "sıralama": 28,
+        "lig": "Birleşik Arap Emirlikleri 07.11.2024 14"
+    },
+    {
+        "sıralama": 29,
+        "lig": "Bolivya 07.11.2024 17"
+    },
+    {
+        "sıralama": 30,
+        "lig": "Bosna Hersek 07.11.2024 12"
+    },
+    {
+        "sıralama": 31,
+        "lig": "Brezilya 07.11.2024 20"
+    },
+    {
+        "sıralama": 32,
+        "lig": "Brezilya 2. Ligi 07.11.2024 20"
+    },
+    {
+        "sıralama": 33,
+        "lig": "Bulgaristan 07.11.2024 16"
+    },
+    {
+        "sıralama": 34,
+        "lig": "Cebelitarık 07.11.2024 11"
+    },
+    {
+        "sıralama": 35,
+        "lig": "Cezayir 07.11.2024 16"
+    },
+    {
+        "sıralama": 36,
+        "lig": "Çek Cumhuriyeti 07.11.2024 16"
+    },
+    {
+        "sıralama": 37,
+        "lig": "Çin 07.11.2024 16"
+    },
+    {
+        "sıralama": 38,
+        "lig": "Danimarka 07.11.2024 12"
+    },
+    {
+        "sıralama": 39,
+        "lig": "Dostluk Savaşı 01.06.2022 10"
+    },
+    {
+        "sıralama": 40,
+        "lig": "Dünya 2002 04.02.2022 32"
+    },
+    {
+        "sıralama": 41,
+        "lig": "Dünya 2022 15.11.2022 32"
+    },
+    {
+        "sıralama": 42,
+        "lig": "Ekvador 07.11.2024 16"
+    },
+    {
+        "sıralama": 43,
+        "lig": "Ermenistan 07.11.2024 11"
+    },
+    {
+        "sıralama": 44,
+        "lig": "Estonya 07.11.2024 10"
+    },
+    {
+        "sıralama": 45,
+        "lig": "Fantezi 150 02.02.2021 10"
+    },
+    {
+        "sıralama": 46,
+        "lig": "Fantezi Turnuvası 20.12.2021 16"
+    },
+    {
+        "sıralama": 47,
+        "lig": "Faroe Adaları 07.11.2024 10"
+    },
+    {
+        "sıralama": 48,
+        "lig": "Fas 07.11.2024 16"
+    },
+    {
+        "sıralama": 49,
+        "lig": "Finlandiya 07.11.2024 12"
+    },
+    {
+        "sıralama": 50,
+        "lig": "Fransa 07.11.2024 18"
+    },
+    {
+        "sıralama": 51,
+        "lig": "Fransa 2. Ligi 07.11.2024 18"
+    },
+    {
+        "sıralama": 52,
+        "lig": "Fransa 3. Ligi 07.11.2024 17"
+    },
+    {
+        "sıralama": 53,
+        "lig": "Galler 07.11.2024 12"
+    },
+    {
+        "sıralama": 54,
+        "lig": "Gana 07.11.2024 18"
+    },
+    {
+        "sıralama": 55,
+        "lig": "Güney Afrika 07.11.2024 16"
+    },
+    {
+        "sıralama": 56,
+        "lig": "Güney Kore 07.11.2024 12"
+    },
+    {
+        "sıralama": 57,
+        "lig": "Gürcistan 07.11.2024 10"
+    },
+    {
+        "sıralama": 58,
+        "lig": "Hırvatistan 07.11.2024 10"
+    },
+    {
+        "sıralama": 59,
+        "lig": "Hollanda 07.11.2024 18"
+    },
+    {
+        "sıralama": 60,
+        "lig": "Hollanda 2. Ligi 07.11.2024 20"
+    },
+    {
+        "sıralama": 61,
+        "lig": "Hollanda 3. Ligi 07.11.2024 18"
+    },
+    {
+        "sıralama": 62,
+        "lig": "Hong Kong 07.11.2024 9"
+    },
+    {
+        "sıralama": 63,
+        "lig": "Iceland 07.11.2024 12"
+    },
+    {
+        "sıralama": 64,
+        "lig": "India 07.11.2024 12"
+    },
+    {
+        "sıralama": 65,
+        "lig": "IndiaSL 07.11.2024 13"
+    },
+    {
+        "sıralama": 66,
+        "lig": "Indonesia 07.11.2024 18"
+    },
+    {
+        "sıralama": 67,
+        "lig": "Iran 07.11.2024 16"
+    },
+    {
+        "sıralama": 68,
+        "lig": "Iraq 20.03.2024 20"
+    },
+    {
+        "sıralama": 69,
+        "lig": "Ireland 07.11.2024 10"
+    },
+    {
+        "sıralama": 70,
+        "lig": "Israel 07.11.2024 14"
+    },
+    {
+        "sıralama": 71,
+        "lig": "Italy 07.11.2024 20"
+    },
+    {
+        "sıralama": 72,
+        "lig": "Italy2 07.11.2024 20"
+    },
+    {
+        "sıralama": 73,
+        "lig": "Italy3 07.11.2024 20"
+    },
+    {
+        "sıralama": 74,
+        "lig": "Italy4 07.11.2024 20"
+    },
+    {
+        "sıralama": 75,
+        "lig": "Italy5 07.11.2024 20"
+    },
+    {
+        "sıralama": 76,
+        "lig": "İngiltere 07.11.2024 20"
+    },
+    {
+        "sıralama": 77,
+        "lig": "İngiltere 14/15 16.04.2024 20"
+    },
+    {
+        "sıralama": 78,
+        "lig": "İngiltere 19/20 13.06.2024 20"
+    },
+    {
+        "sıralama": 79,
+        "lig": "İngiltere 2. Ligi 07.11.2024 24"
+    },
+    {
+        "sıralama": 80,
+        "lig": "İngiltere 3. Ligi 07.11.2024 24"
+    },
+    {
+        "sıralama": 81,
+        "lig": "İngiltere 4. Ligi 07.11.2024 24"
+    },
+    {
+        "sıralama": 82,
+        "lig": "İngiltere 5. Ligi 07.11.2024 24"
+    },
+    {
+        "sıralama": 83,
+        "lig": "İskoçya 07.11.2024 12"
+    },
+    {
+        "sıralama": 84,
+        "lig": "İskoçya 2. Ligi 07.11.2024 10"
+    },
+    {
+        "sıralama": 85,
+        "lig": "İspanya 07.11.2024 20"
+    },
+    {
+        "sıralama": 86,
+        "lig": "İspanya 2. Ligi 07.11.2024 22"
+    },
+    {
+        "sıralama": 87,
+        "lig": "İspanya 3. Ligi A 07.11.2024 20"
+    },
+    {
+        "sıralama": 88,
+        "lig": "İspanya 3. Ligi B 07.11.2024 20"
+    },
+    {
+        "sıralama": 89,
+        "lig": "İsveç 07.11.2024 16"
+    },
+    {
+        "sıralama": 90,
+        "lig": "İsveç 2. Ligi 07.11.2024 16"
+    },
+    {
+        "sıralama": 91,
+        "lig": "İsviçre 07.11.2024 12"
+    },
+    {
+        "sıralama": 92,
+        "lig": "İsviçre 2. Ligi 07.11.2024 10"
+    },
+    {
+        "sıralama": 93,
+        "lig": "Japonya 07.11.2024 20"
+    },
+    {
+        "sıralama": 94,
+        "lig": "K/M Amerika Şampiyonlar Kupası 16.02.2023 16"
+    },
+    {
+        "sıralama": 95,
+        "lig": "Kanada 07.11.2024 8"
+    },
+    {
+        "sıralama": 96,
+        "lig": "Karadağ 07.11.2024 10"
+    },
+    {
+        "sıralama": 97,
+        "lig": "Katar 07.11.2024 12"
+    },
+    {
+        "sıralama": 98,
+        "lig": "Kazakistan 07.11.2024 13"
+    },
+    {
+        "sıralama": 99,
+        "lig": "Kıbrıs 07.11.2024 14"
+    },
+    {
+        "sıralama": 100,
+        "lig": "Knockout Royale 13.09.2023 128"
+    },
+    {
+        "sıralama": 101,
+        "lig": "Kolombiya 07.11.2024 20"
+    },
+    {
+        "sıralama": 102,
+        "lig": "Konferans Ligi 24/25 02.09.2024 36"
+    },
+    {
+        "sıralama": 103,
+        "lig": "Kosova 07.11.2024 10"
+    },
+    {
+        "sıralama": 104,
+        "lig": "Kosta Rika 07.11.2024 12"
+    },
+    {
+        "sıralama": 105,
+        "lig": "Kuveyt 03.02.2023 10"
+    },
+    {
+        "sıralama": 106,
+        "lig": "Kuzey Makedonya 07.11.2024 12"
+    },
+    {
+        "sıralama": 107,
+        "lig": "LatAm Şampiyonası 2024 19.03.2024 32"
+    },
+    {
+        "sıralama": 108,
+        "lig": "LatAm Şampiyonası 2024 Dörtlü Final 16.10.2024 4"
+    },
+    {
+        "sıralama": 109,
+        "lig": "Letonya 07.11.2024 10"
+    },
+    {
+        "sıralama": 110,
+        "lig": "Litvanya 07.11.2024 10"
+    },
+    {
+        "sıralama": 111,
+        "lig": "Lüksemburg 07.11.2024 16"
+    },
+    {
+        "sıralama": 112,
+        "lig": "Macaristan 07.11.2024 12"
+    },
+    {
+        "sıralama": 113,
+        "lig": "Malezya 07.11.2024 13"
+    },
+    {
+        "sıralama": 114,
+        "lig": "Malta 07.11.2024 14"
+    },
+    {
+        "sıralama": 115,
+        "lig": "Meksika 07.11.2024 18"
+    },
+    {
+        "sıralama": 116,
+        "lig": "Meksika 2. Lig 07.11.2024 15"
+    },
+    {
+        "sıralama": 117,
+        "lig": "Mısır 07.11.2024 18"
+    },
+    {
+        "sıralama": 118,
+        "lig": "Moldova 07.11.2024 8"
+    },
+    {
+        "sıralama": 119,
+        "lig": "NorthernIreland 07.11.2024 12"
+    },
+    {
+        "sıralama": 120,
+        "lig": "Norveç 07.11.2024 16"
+    },
+    {
+        "sıralama": 121,
+        "lig": "Norveç 2. Lig 07.11.2024 16"
+    },
+    {
+        "sıralama": 122,
+        "lig": "Özbekistan 07.11.2024 14"
+    },
+    {
+        "sıralama": 123,
+        "lig": "Paraguay 07.11.2024 12"
+    },
+    {
+        "sıralama": 124,
+        "lig": "Patron Turnuvası 14.09.2023 16"
+    },
+    {
+        "sıralama": 125,
+        "lig": "Peru 07.11.2024 18"
+    },
+    {
+        "sıralama": 126,
+        "lig": "Polonya 07.11.2024 18"
+    },
+    {
+        "sıralama": 127,
+        "lig": "Polonya 2. Ligi 07.11.2024 18"
+    },
+    {
+        "sıralama": 128,
+        "lig": "Portekiz 07.11.2024 18"
+    },
+    {
+        "sıralama": 129,
+        "lig": "Portekiz 2. Ligi 07.11.2024 18"
+    },
+    {
+        "sıralama": 130,
+        "lig": "Romanya 07.11.2024 16"
+    },
+    {
+        "sıralama": 131,
+        "lig": "Romanya 2. Ligi 07.11.2024 22"
+    },
+    {
+        "sıralama": 132,
+        "lig": "Rusya 07.11.2024 16"
+    },
+    {
+        "sıralama": 133,
+        "lig": "Rusya 2. Ligi 07.11.2024 18"
+    },
+    {
+        "sıralama": 134,
+        "lig": "San Marino 07.11.2024 16"
+    },
+    {
+        "sıralama": 135,
+        "lig": "Sırbistan 07.11.2024 16"
+    },
+    {
+        "sıralama": 136,
+        "lig": "Singapur 07.11.2024 9"
+    },
+    {
+        "sıralama": 137,
+        "lig": "Slovakya 07.11.2024 12"
+    },
+    {
+        "sıralama": 138,
+        "lig": "Slovenya 07.11.2024 10"
+    },
+    {
+        "sıralama": 139,
+        "lig": "Suudi Arabistan 07.11.2024 18"
+    },
+    {
+        "sıralama": 140,
+        "lig": "Şampiyonlar Ligi 14/15 16.04.2024 32"
+    },
+    {
+        "sıralama": 141,
+        "lig": "Şampiyonlar Ligi 19/20 12.01.2022 32"
+    },
+    {
+        "sıralama": 142,
+        "lig": "Şampiyonlar Ligi 24/25 02.09.2024 36"
+    },
+    {
+        "sıralama": 143,
+        "lig": "Şili 07.11.2024 16"
+    },
+    {
+        "sıralama": 144,
+        "lig": "Tarih Ligi A 20.01.2013 12"
+    },
+    {
+        "sıralama": 145,
+        "lig": "Tayland 07.11.2024 16"
+    },
+    {
+        "sıralama": 146,
+        "lig": "Topluluk Ligi M 11.09.2023 16"
+    },
+    {
+        "sıralama": 147,
+        "lig": "Topluluk Ligi S 11.09.2023 12"
+    },
+    {
+        "sıralama": 148,
+        "lig": "Tunus 07.11.2024 16"
+    },
+    {
+        "sıralama": 149,
+        "lig": "Türkiye 07.11.2024 19"
+    },
+    {
+        "sıralama": 150,
+        "lig": "Türkiye 2. Ligi 07.11.2024 20"
+    },
+    {
+        "sıralama": 151,
+        "lig": "Türkiye 3. Ligi A 07.11.2024 18"
+    },
+    {
+        "sıralama": 152,
+        "lig": "Türkiye 3. Ligi B 07.11.2024 18"
+    },
+    {
+        "sıralama": 153,
+        "lig": "Ukrayna 07.11.2024 16"
+    },
+    {
+        "sıralama": 154,
+        "lig": "Ukrayna 2. Ligi 07.11.2024 18"
+    },
+    {
+        "sıralama": 155,
+        "lig": "Uruguay 07.11.2024 16"
+    },
+    {
+        "sıralama": 156,
+        "lig": "Venezuella 07.11.2024 15"
+    },
+    {
+        "sıralama": 157,
+        "lig": "Yeni Zellanda 07.11.2024 12"
+    },
+    {
+        "sıralama": 158,
+        "lig": "Yıldız Kulüpler 17.08.2021 16"
+    },
+    {
+        "sıralama": 159,
+        "lig": "Yunanistan 07.11.2024 14"
+    }
+]
